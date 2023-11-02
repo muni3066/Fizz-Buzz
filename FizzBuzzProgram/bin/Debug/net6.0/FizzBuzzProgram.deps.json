@@ -1,0 +1,45 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FizzBuzzProgram/1.0.0": {
+        "dependencies": {
+          "NUnit": "4.0.0-beta.1"
+        },
+        "runtime": {
+          "FizzBuzzProgram.dll": {}
+        }
+      },
+      "NUnit/4.0.0-beta.1": {
+        "runtime": {
+          "lib/net6.0/nunit.framework.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          },
+          "lib/net6.0/nunit.framework.legacy.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FizzBuzzProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NUnit/4.0.0-beta.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+Z2eZ+jXv+WDAvjcr/fhf1jlGojFdoDLdZ1NxsRuTUZO1nodEXdlrXPkGbRB8hIx57FAs8FkmfBhHih2TFbE2g==",
+      "path": "nunit/4.0.0-beta.1",
+      "hashPath": "nunit.4.0.0-beta.1.nupkg.sha512"
+    }
+  }
+}
