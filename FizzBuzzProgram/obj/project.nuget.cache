@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BY0C740L6Ci/CZGpqI6gt1W/SAeCrv1mrJ4H6MrhY+V2P6w+x3RlVI7sdSwtYZPYakKqj4lC/XUc7rJTQ0jUmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\91798\\Documents\\AccentureTask\\FizzBuzzProgram\\FizzBuzzProgram\\FizzBuzzProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91798\\.nuget\\packages\\nunit\\4.0.0-beta.1\\nunit.4.0.0-beta.1.nupkg.sha512"
+  ],
+  "logs": []
+}
